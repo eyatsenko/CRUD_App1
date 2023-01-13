@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de6bdc4e-9995-4d7c-96dc-f13e2067bede" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yatsenko/springcourse/controllers/PeopleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/yatsenko/springcourse/config/MySpringMvcDispatcherSerlvetIntitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/yatsenko/springcourse/config/MySpringMvcDispatcherSerlvetIntitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/yatsenko/springcourse/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/yatsenko/springcourse/config/SpringConfig.java" afterDir="false" />
+    <list default="true" id="de6bdc4e-9995-4d7c-96dc-f13e2067bede" name="Changes" comment="Person.java and PersonDAO.java were added.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/yatsenko/springcourse/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/yatsenko/springcourse/dao/PersonDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +64,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673620779564</updated>
-      <workItem from="1673620780628" duration="431000" />
+      <workItem from="1673620780628" duration="1292000" />
     </task>
+    <task id="LOCAL-00001" summary="Person.java and PersonDAO.java were added.">
+      <created>1673621345713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673621345713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Person.java and PersonDAO.java were added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Person.java and PersonDAO.java were added." />
   </component>
 </project>
