@@ -1,4 +1,4 @@
-package org.yatsenko.springcouse.config;
+package org.yatsenko.springcourse.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
