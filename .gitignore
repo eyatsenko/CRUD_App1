@@ -8,13 +8,13 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
-.idea/workspace.xml
+#.idea/workspace.xml
 *.iws
 *.iml
 *.ipr
-#*.xml
-#*.patch
-#*.meta
+*.xml
+*.patch
+*.meta
 
 
 ### Eclipse ###
