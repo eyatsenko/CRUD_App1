@@ -12,9 +12,9 @@ target/
 *.iws
 *.iml
 *.ipr
-*.xml
-*.patch
-*.meta
+#*.xml
+#*.patch
+#*.meta
 
 
 ### Eclipse ###
